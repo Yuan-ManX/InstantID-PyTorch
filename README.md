@@ -1,7 +1,7 @@
 # InstantID PyTorch
 
 <p align="center">
-  <img src="InstantID.png" alt="InstantID" style="display:block; margin:auto; width:850px;" />
+  <img src="InstantID.png" alt="InstantID" style="display:block; margin:auto; width:750px;" />
 </p>
 
 PyTorch implementation of InstantID.
